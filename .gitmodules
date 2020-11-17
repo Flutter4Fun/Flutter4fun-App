@@ -1,0 +1,9 @@
+[submodule "challenges/UI-Challenge-1"]
+	path = challenges/UI-Challenge-1
+	url = git@github.com:imaNNeoFighT/UI-Challenge-1.git
+[submodule "challenges/UI-Challenge-2"]
+	path = challenges/UI-Challenge-2
+	url = git@github.com:imaNNeoFighT/UI-Challenge-2.git
+[submodule "challenges/UI-Challenge-3"]
+	path = challenges/UI-Challenge-3
+	url = git@github.com:imaNNeoFighT/UI-Challenge-3.git
