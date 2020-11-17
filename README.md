@@ -4,6 +4,19 @@ flutter4fun.com app
 
 ## Getting Started
 
+### Clone:
+
+```
+git clone --recurse-submodules https://github.com/chaconinc/MainProject
+```
+
+or if you already pulled:
+
+```
+submodule update --init --recursive
+```
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
