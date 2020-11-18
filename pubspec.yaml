@@ -31,6 +31,12 @@ dependencies:
   ui_challenge_1:
     path: challenges/UI-Challenge-1
 
+  ui_challenge_2:
+    path: challenges/UI-Challenge-2
+
+  ui_challenge_3:
+    path: challenges/UI-Challenge-3
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
